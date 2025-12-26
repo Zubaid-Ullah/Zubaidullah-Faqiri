@@ -3,118 +3,119 @@
 📧 Email: Zubaidullah.khan1437@gmail.com  
 📱 WhatsApp: +1 902 200 8650 | +92 333 117 3454  
 📞 Mobile: +93 7961 09342  
-📞 Mobile: +93 7967 76436
-📍 Marital Status: Single  
+📞 Mobile: +93 7967 76436  
+📌 Marital Status: Single  
 
 ---
 
 ## 👨‍💻 Professional Title
-**Python 3.x Full-Stack & Cross-Platform Developer**
+**Python 3.x Full-Stack & Cross-Platform Application Developer**
 
 ---
 
 ## 🧠 Professional Summary
-A proficient **Python 3.x full-stack developer** specializing in **cross-platform desktop application development** for **macOS and Windows**. Experienced in frontend and backend development, database integration, RESTful API design, and deployment of secure, standalone applications with **code obfuscation**. Possesses working knowledge of **Python** and **Java**, enabling a versatile and structured development approach.  
+A proficient **Python 3.x Full-Stack Developer** with specialized expertise in **cross-platform desktop application development** for **macOS and Windows**. Experienced in frontend and backend development, database design and integration, RESTful API development, and deployment of secure standalone applications with **code obfuscation**.
 
-In addition to technical expertise, demonstrates strong **teaching, mentoring, and academic delivery skills**, with the ability to effectively convey both practical and theoretical software development concepts in academic and professional environments.
+Possesses working knowledge of **Python** and **Java**, enabling a structured and adaptable development approach. Combines strong technical expertise with proven **academic teaching and mentoring capabilities**, delivering both theoretical and practical software development concepts in professional and academic environments.
 
 ---
 
 ## 💼 Professional Experience
 
-### Services Provided To:
-- **HCI (Hayatabad Computer Academy)**  
-  *Instructor* — Taught Python 3.x to bachelor-level students.
+### Organizations Served
+- **Hayatabad Computer Academy (HCI)**  
+  *Python Instructor*  
+  Delivered Python 3.x instruction to bachelor-level students.
 
-- **FIO (Frontier Institute of Ophthalmology)**  
-  *IT Support & Developer* — Bug translation and interpretation, hardware troubleshooting, system improvements, and software assistance.
+- **Frontier Institute of Ophthalmology (FIO)**  
+  *IT Support & Software Assistant*  
+  Provided system support, bug translation and interpretation, hardware troubleshooting, and software improvement recommendations.
 
 - **Tor Skills Triangle**  
-  *Software Developer* — Developed education-focused software and an inventory management system.
+  *Software Developer*  
+  Developed education-oriented software solutions and an inventory management system.
 
 - **Moon Shopping Mall**  
-  *IT Manager & Supervisor* — Managed IT operations across branches, monitored systems, and supervised cashier operations.
+  *IT Manager & Operations Supervisor*  
+  Managed IT infrastructure across branches, monitored systems, and supervised cashier operations.
 
 - **DigyYolo**  
-  *Third-Party Freelancer* — Delivered Python scripts, web scraping solutions, desktop applications, and frontend components.
+  *Freelance Python Developer (Third-Party)*  
+  Delivered Python scripts, web scraping solutions, desktop applications, and frontend components.
 
 - **Al-Burhan Academy**  
-  *Hafiz & Instructor* — Taught Hifz (Quran memorization) and Tajweed classes internationally.
+  *Hifz & Tajweed Instructor*  
+  Delivered Quran memorization and Tajweed instruction internationally.
 
 ---
 
-## 🏫 Current Employment
+## 🏫 Farmer Academic Positions
 
 - **Lecturer, Department of Computer Science**  
-  *Khatam-al-Nabeein University* — Present
+  *Khatam-al-Nabeein University*
 
 - **Lecturer, Department of Computer Science**  
-  *Khana-e-Noor University* — Present
+  *Khana-e-Noor University*
 
 - **Lecturer, Department of Computer Science**  
-  *Salaam University* — Present
-
+  *Salaam University*
+## 🏫 Current Academic Positions
+- **Lecturer, Department of Computer Science**  
+  *Rana University* — Present
 ---
 
 ## 🎓 Education
 
 - **Bachelor Level Education**  
-  *Sarhad University of Science & Information Technology (SUIT)*
+  Sarhad University of Science & Information Technology (SUIT)
 
-- **School & College**  
-  *Hudaibia High School & Degree College*
+- **Secondary & Higher Secondary Education**  
+  Hudaibia High School & Degree College
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Major Projects
 
-### 🔐 ZSS (Zubaid Security Service)
-A cryptography-based macOS application that encrypts and decrypts data using **AES**, providing high-level data security resistant to reverse engineering.
+### 🔐 Zubaid Security Service (ZSS)
+A macOS-based cryptography application utilizing **AES encryption** for secure data encryption and decryption, designed to resist reverse engineering.
 
-### 🏋️ GYM App (Research-Based System)
-A smart gym management system integrating **AI and Computer Vision** for member monitoring, performance analysis, and automation. Supports both **online and offline databases**.
+### 🏋️ Gym Management System (Research-Based)
+An AI-assisted gym management system integrating **computer vision** for member monitoring, performance analysis, and automation. Supports both **online and offline databases**.
 
-### 💰 Salary Calculator
-A cross-platform desktop application for **Windows and macOS**, enabling dynamic salary calculations based on CEO-defined criteria.
+### 💰 Salary Calculator (Cross-Platform)
+A desktop application for **Windows and macOS** that calculates employee salaries using dynamic, CEO-defined parameters.
 
-### 📦 TorSkillsTriangle – Inventory System
-A lightweight inventory solution for tracking students, employees, daily visitors, and petty cash.
+### 📦 Tor Skills Triangle Inventory System
+A lightweight inventory system for managing students, employees, visitors, and petty cash transactions.
 
 ### 📄 CHFISF (Convert Hard-Format into Soft-Format)
-A macOS application that extracts tables from PDFs and recognizes **digital and handwritten text** using **OCR and image processing**.
+A macOS application that extracts tables from PDFs and recognizes **digital and handwritten text** using OCR and image processing.
 
-### 📂 Easy-Move
-A macOS utility that organizes and moves files of identical types across directories, particularly useful for video editors managing frame sequences.
+### 📂 Easy-Move Utility
+A macOS utility for organizing and relocating files of identical types across directories, designed for high-volume media workflows.
 
-### 🏢 Tower Inventory System
-A comprehensive cross-platform desktop solution for **property and asset management**, supporting residential and commercial units, customer records, payment schedules, employee management, analytics dashboards, and multi-city scalability.
+### 🏢 Tower Inventory & Property Management System
+A scalable cross-platform desktop solution for property dealers and tower owners, supporting customer records, payment schedules, employee management, analytics dashboards, and multi-city deployment.
 
 ---
 
-## 👨‍🏫 Teaching & Mentoring
+## 👨‍🏫 Teaching & Mentoring Experience
 
-- Online tutoring for bachelor-level students  
+- Bachelor-level online tutoring  
 - Python 3.x instructor at Hayatabad Computer Academy  
-- International Hifz & Tajweed teaching across:
-  - Russia
-  - United States
-  - United Kingdom (London)
-  - Virginia
-  - Canada
-  - California
-  - Pennsylvania
-  - Nigeria
+- International Hifz & Tajweed instruction across:
+  Russia, United States, United Kingdom, Canada, Nigeria
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python 3.x, Java  
-- **Frontend:** HTML, CSS, Tailwind CSS  
-- **Backend:** REST APIs, Business Logic  
+- **Programming Languages:** Python 3.x, Java  
+- **Frontend Development:** HTML, CSS, Tailwind CSS  
+- **Backend Development:** RESTful APIs, Business Logic  
 - **Databases:** MySQL, SQLite3, Supabase  
-- **Desktop:** PyQt5, Standalone App Packaging  
-- **Libraries:** NumPy, Pandas, OpenCV  
+- **Desktop Development:** PyQt5, Standalone Application Packaging  
+- **Libraries & Tools:** NumPy, Pandas, OpenCV  
 - **Security:** Cryptography, Code Obfuscation  
 - **Platforms:** macOS & Windows Cross-Platform Development  
 
@@ -122,9 +123,9 @@ A comprehensive cross-platform desktop solution for **property and asset managem
 
 ## 📜 Certifications
 
-- Introduction to Data Science in Python — *DataCamp*  
-- Introduction to SQL — *DataCamp*  
-- Python for Machine Learning — *Great Learning Academy*
+- Introduction to Data Science in Python — DataCamp  
+- Introduction to SQL — DataCamp  
+- Python for Machine Learning — Great Learning Academy  
 
 ---
 
