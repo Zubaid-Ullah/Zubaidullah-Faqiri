@@ -66,7 +66,7 @@ Possesses working knowledge of **Python** and **Java**, enabling a structured an
 
 ## 🎓 Education
 
-- **Bachelor Level Education**  
+- **Bachelor: Bachelor of Science in Computer Science**  
   Sarhad University of Science & Information Technology (SUIT)
 
 - **Secondary & Higher Secondary Education**  
