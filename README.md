@@ -1,8 +1,7 @@
 # Zubaidullah Faqiri
 
 📧 Email: Zubaidullah.khan1437@gmail.com  
-📱 WhatsApp: +1 902 200 8650 | +92 333 117 3454  
-📞 Mobile: +93 7961 09342  
+📱 WhatsApp: +93 7967 76436 | +92 333 117 3454  
 📞 Mobile: +93 7967 76436  
 📌 Marital Status: Single  
 
@@ -75,6 +74,11 @@ Possesses working knowledge of **Python** and **Java**, enabling a structured an
 ---
 
 ## 🚀 Major Projects
+### Pharmacy POS
+	A Pharmacy POS (Point of Sale) system is specialized software designed to manage prescription processing, medication inventory, billing, insurance claims, and regulatory compliance in pharmacies. It helps streamline operations while ensuring accuracy and patient safety.
+### Store POS
+	A Store POS system is a retail management solution that handles sales transactions, inventory tracking, customer management, and reporting for general retail stores. It improves checkout efficiency and overall store operations.
+
 
 ### 🔐 Zubaid Security Service (ZSS)
 A macOS-based cryptography application utilizing **AES encryption** for secure data encryption and decryption, designed to resist reverse engineering.
